@@ -1,0 +1,3 @@
+[submodule "ABS-Engine"]
+	path = ABS-Engine
+	url = https://github.com/DvirMagen/ABS-Engine.git

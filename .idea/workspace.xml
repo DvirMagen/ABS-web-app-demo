@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82a7554a-0555-421e-b697-27bebaaab558" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABS-Engine" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listener/ContextListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server_utills/ServletUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server_utills/SessionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/ABServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/AddNotificationServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/AnalyzeDataServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/BalanceServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/BuyLoanServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/CategoriesServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/ChargeMoneyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/ClientsInformationServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/CustomersDataByTimeUnitRewindModeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/DataSystemServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/FilterServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/FinishLoanServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/InvestLoanServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/InvestmentLoansServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/LightWeightAdminLoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/LightWeightClientLoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/LoansDataByTimeUnitRewindMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/LoansForSaleServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/LoansServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/LogoutServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/MovementServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/NewLoanServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/NotificationsServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/PayPaymentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/PaymentsServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/RewindModeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/SaleLoanServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/SellLoanServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/UpdateBalanceServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/UpdateRewindModeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/UpdateScrambleServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/UpdateTimeUnitInRewindModeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/WithdrawMoneyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/YazTimeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/common/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/common/context-path-helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/common/images/smiley.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/common/jquery-2.0.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pages/adminLogin/adminLogin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pages/adminLogin/adminLogin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pages/clientLogin/clientLogin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pages/clientLogin/clientLogin.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DAEggBhkGsGBdqL4P1rwNvbzeY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "C:/Users/User/Desktop/java for git/ABS-web-app-demo/ABS-Engine",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.22183909"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\java for git\ABS-web-app-demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\java for git\ABS-web-app-demo" />
+      <recent name="C:\Users\User\Desktop\java for git\ABS-web-app-demo\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82a7554a-0555-421e-b697-27bebaaab558" name="Changes" comment="" />
+      <created>1660133604125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660133604125</updated>
+      <workItem from="1660133605826" duration="1481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+</project>
